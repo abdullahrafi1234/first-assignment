@@ -1,0 +1,14 @@
+
+div, h3, p{
+    color: white;
+}
+.new{
+    background-image: url("../resources/Banner\ Image.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+    text-align: center;
+    
+
+}
