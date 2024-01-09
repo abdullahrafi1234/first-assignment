@@ -1,6 +1,24 @@
-
-div, h3, p{
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,900&display=swap');
+h3{
     color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0px;
+    padding-top: 210px;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900px;
+    line-height: 95px;
+    margin: 0px;
+    
+}
+h1 h3{
+    display: block;
 }
 .new{
     background-image: url("../resources/Banner\ Image.png");
@@ -9,6 +27,48 @@ div, h3, p{
     background-position: center;
     border-radius: 16px;
     text-align: center;
-    
 
+}
+.off{
+    text-align: center;
+    color: red;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top:  100px;
+}
+.holiday{
+    text-align: center;
+    color: red;margin-top: 50px;
+}
+.all{
+    font-size:48px ;
+    text-align: center;
+    margin-top: 0px;
+   
+}
+.image{
+    text-align: center;
+}
+.wellcome{
+    background-image: url("../resources/Vectorrr.png");
+    height: 600px;
+    margin-top: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.night{
+   
+    text-align:left;
+    margin-left: 300px;color: white;
+}
+#paragraph{
+    font-size: 24px;
+    margin-right: 350px;
+}
+.join{
+    font-size:24px;
+    margin-left: 300px;
+    margin-top: 50px;
+    color: white;
+   
 }
