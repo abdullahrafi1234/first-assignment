@@ -145,3 +145,51 @@ input{
     background-color: #F00;
     color: white;
 }
+.footer{
+    background-color: black;
+    color: white;
+}
+.footerclass{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 280px 0px 180px;
+    margin-bottom: 0px;
+}
+.footerclass2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 280px 0px 180px;
+    margin-top: 0px;
+}
+.footerclass3{
+    justify-content: center;
+    margin-left: 730px;
+    padding: 30px;
+
+}
+.footerclass4{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 280px 80px 180px;
+    margin-top: 0px;
+}
+.newpark{
+    background-color:lavenderblush;
+    margin: 100px 180px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 32px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    font-size: bolder;
+}
+.button2{
+    background-color: #F00;
+    color: white;
+    border: 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.park{
+    color: #F00;
+}
