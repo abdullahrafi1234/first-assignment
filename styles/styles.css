@@ -101,10 +101,47 @@
     padding-left: 180px;
     margin-right: 564px;   
 }
-img{
+div img{
     justify-content: center;
-    margin-right: 30px;
+    margin-right: 15px;
+
+}
+.bestgift{
+    padding-left: 20px;
 }
 .pic{
     text-align: center;
+    gap: 20px;
+}
+.subscribe{
+    background-color:lavenderblush;
+    margin: 100px 180px;
+    text-align: center;
+    border-radius: 16px;
+
+}
+.group61{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.form{
+   border-radius: 50px;
+   /* padding-bottom: 50px; */
+
+}
+input{
+    margin:40px;
+    margin-right: 0px;
+    padding: 15px;
+    border-radius: 50px 0px 0px 50px;
+    width: 400px;
+}
+.button{
+    margin:40px;
+    margin-left: 0px;
+    padding: 15px;
+    /* width: 400px; */
+    border-radius: 0px 50px 50px 0px;
+    background-color: #F00;
+    color: white;
 }
